@@ -1,7 +1,7 @@
 =============================================================================
 Project:   ImageSearch
-Copyright: ©2011 My Company, Inc.
+Copyright: ©2011 Springenwerk
 =============================================================================
 
-TODO: Describe Your Project
+A bare bones Google Image Search client written in SproutCore for an article in the German Mac Developer magazine.
 
